@@ -10,7 +10,7 @@ en un dispositivo sin la necesidad de tener conexión a internet, pero se puede 
 
 ## ¿Que es Github?
 
-**Github** es un servidor en un sitio web que usa Git de manera interna pero tiene una interfaz visual que facilita el uso para el usuario. 
+**Github** es un servidor en un sitio web que usa Git de manera interna pero tiene una interfaz visual que facilita el uso para el usuario.  
 Existen **repositorios públicos** para que cualquier usuario de GitHub haga cambios en el proyecto pero solo nosotros decidimos si esos cambios se efectuan o no.
 Tambien existen **repositorios privados** para que solo nosotros y los colaboradosres seleccionados puedan modificar y visualizar el proyecto, pero esta opcion es solo para los usuarios premium. 
 Se puede usar Github sin nunca hacer uso de la aplicación de Git en sí y usar Git sin hacer uso de Github 
